@@ -1,0 +1,27 @@
+16 25 D
+A B 1
+A C 2
+A D 3
+B E 4
+C F 5
+D G 6
+E H 7
+F I 8
+G J 9
+H K 10
+I L 11
+J M 12
+K N 13
+L O 14
+M P 15
+A O 26
+B G 17
+E K 18
+K P 19
+C I 20
+D K 21
+B K 22
+C L 23
+J M 24
+A N 25
+A
